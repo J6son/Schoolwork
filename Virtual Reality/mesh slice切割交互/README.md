@@ -4,4 +4,5 @@
 此项目工程所用Unity版本号为Unity 2019.4.21f1c1 (64-bit)  
 # A 3D Interactive Cutting Model Based on Mesh Grid Programming in Unity 
 Developed the basic cutting functions to cut the externally imported rigidbody;  
-Studied soft-body physics and consulted a foreign programmer to improve the flexible cutting algorithm;
+Studied soft-body physics and consulted a foreign programmer to improve the flexible cutting algorithm;  
+# 打包成exe 都是鼠标操作比如点击、划线
