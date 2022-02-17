@@ -15,7 +15,7 @@
 6. Image Segmentation: Algorithm: Adaptive Threshold
 7. Set the contrast and brightness of the image by slider control
 8. Show image grayscale histogram
-![interface](readme_md_files%5Cimage.png?v=1&type=image =500x)
+![interface](readme_md_files%5Cimage.png?v=1&type=image)
 ![](readme_md_files%5Cimage%20%282%29.png?v=1&type=image =500x)
 # simulink  
 1.解微分  
