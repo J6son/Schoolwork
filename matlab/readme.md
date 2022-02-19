@@ -7,6 +7,7 @@
 6.图像分割：图像分割算法 自适应阈值  
 7.通过滑条控件设置图像的对比度和亮度  
 8.显示图像灰度直方图    
+
 1. Reading binarizing and saving image
 2. Edge detection: Edge Detection Operator: Roberts / Prewitt / Sobel / Log / Canny
 3. Image enhancement: histogram equalization, Sobel operator sharpening, gradient sharpening
@@ -15,15 +16,32 @@
 6. Image Segmentation: Algorithm: Adaptive Threshold
 7. Set the contrast and brightness of the image by slider control
 8. Show image grayscale histogram
-![](readme_md_files%5Cimage.png?v=1&type=image)
-![](readme_md_files%5Cimage%20%282%29.png?v=1&type=image)
+<img src="readme_md_files%5Cimage.png?v=1&type=image" style="zoom: 67%;" />
+<img src="readme_md_files%5Cimage%20%282%29.png?v=1&type=image" style="zoom:67%;" />
 # simulink  
 1.解微分  
 2.以蹦极绳弹力系数、人的高度判断蹦极是否安全
 
 1.Differential equation
-![](readme_md_files%5Cimage%20%283%29.png?v=1&type=image =400x)
+<img src="readme_md_files%5Cimage%20%283%29.png?v=1&type=image =400x" style="zoom: 67%;" />
+
 2. Calculating the elasticity of the rope and height of    the ground to predict whether the bungee is safe.
-![](readme_md_files%5Cimage%20%284%29.png?v=1&type=image =400x)
-In this case, height of the ground is a negative number during 5-10 secs, not a good choice lol
-![](readme_md_files%5Cimage%20%285%29.png?v=1&type=image =400x)
+
+  parameter you can change:
+
+  the weight of people
+
+  the height from the ground
+
+  the coefficient of elasticity
+
+  air resistance
+
+  initial length of rope
+
+  <img src="readme_md_files%5Cimage%20%284%29.png?v=1&type=image =400x" style="zoom:67%;" />
+  In one case, height from the ground is a negative number during 5-10 secs, not a good choice lol.
+  <img src="readme_md_files%5Cimage%20%285%29.png?v=1&type=image =400x" style="zoom:67%;" />
+
+  
+
